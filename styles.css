@@ -110,7 +110,7 @@ header {
 
 .profile-image,
 .tag {
-  box-shadow: 0px 0px 30px #222;
+  box-shadow: 0 0 30px #222;
 }
 
 .tag {
@@ -258,7 +258,7 @@ ul.skills {
 footer {
   width: 100%;
   min-height: 30px;
-  padding: 40px 0 40px 0px;
+  padding: 40px 0 40px 0;
 }
 
   footer .copyright {
@@ -408,7 +408,7 @@ a:hover {
     font-size: 1.3em;
     max-width: 1200px;
     margin: 40px auto;
-    padding: 20px 0 40px 0px;
+    padding: 20px 0 40px 0;
   }
 
 }
