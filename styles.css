@@ -327,7 +327,7 @@ a:hover {
   }
 
     .nav .name {
-      display: initial;
+      display: inherit;
       margin-right: auto;
       color: white;
     }
