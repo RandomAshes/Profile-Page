@@ -292,13 +292,13 @@ a:hover {
     transition: all .5s;
   }
   a.twitter {
-    background-image: url(images/twitter2.svg);
+    background-image: url('images/twitter2.svg');
   }
   a.linkedin {
-    background-image: url(images/linkedin2.svg);
+    background-image: url('images/linkedin2.svg');
   }
   a.github {
-    background-image: url(images/github2.svg);
+    background-image: url('images/github2.svg');
   }
   a.social:hover {
     opacity: 1;
